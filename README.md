@@ -1,6 +1,5 @@
 # Laxity-Intro-4
-C64 intro by Laxity backward engineered
-
+C64 intro by Laxity 
 Original coding by Didi of Laxity
 Backward engineered by me. 
 
